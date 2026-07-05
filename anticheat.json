@@ -1,48 +1,16 @@
 {
-
-    "Nexos[AC]": { // Nexos AC
-
-        /////////////////////////////////////////
-        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
-        /////////////////////////////////////////
-        "Rehison": { // PLANTILA LICENCIA 
+    "Nexos[AC]": {
+        "REHISON": {
             "server_ip": "135.148.164.122:9716",
-            "user_key": "REHISON", 
+            "user_key": "REHISON"
         },
-        /////////////////////////////////////////
-
-        "Rehison": { // Test Local Server User
+        "REHISON_LOCAL": {
             "server_ip": "10.5.0.2:22003",
-            "user_key": "REHISON",
+            "user_key": "REHISON"
         },
-
-        "CAPOTILLOTMG": { // User capotillo (Server)
+        "CAPOTILLO": {
             "server_ip": "",
-            "user_key": "",
-        },
-
-    },
-
-    "Samu": { // Samu
-
-        /////////////////////////////////////////
-        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
-        /////////////////////////////////////////
-        "USER AQUI": { // PLANTILA LICENCIA 
-            "server_ip": "SERVER IP",
-            "user_key": "KEY AQUI", 
-        },
-        /////////////////////////////////////////
-
-        "TEST": { // Test Local Server User
-            "server_ip": "",
-            "user_key": "",
-        },
-
-        "TEST": { // User  (Server)
-            "server_ip": "",
-            "user_key": "",
-        },
-
-    },
+            "user_key": "TMG"
+        }
+    }
 }
