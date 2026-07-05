@@ -5,9 +5,9 @@
         /////////////////////////////////////////
         /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
         /////////////////////////////////////////
-        "USER AQUI": { // PLANTILA LICENCIA 
-            "server_ip": "SERVER IP",
-            "user_key": "KEY AQUI", 
+        "REHISON": { // PLANTILA LICENCIA 
+            "server_ip": "181.232.191.242:22003",
+            "user_key": "REHISON", 
         },
         /////////////////////////////////////////
 
