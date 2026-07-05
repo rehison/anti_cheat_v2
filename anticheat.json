@@ -1,8 +1,8 @@
 {
     "Nexos[AC]": {
-        "REHISON": {
-            "server_ip": "135.148.164.122:22003",
-            "user_key": "REHISON"
+        "CAPOTILLO": {
+            "server_ip": "57.129.79.156:30023",
+            "user_key": "TMG"
         },
         "REHISON_LOCAL": {
             "server_ip": "10.5.0.2:22003",
