@@ -1,0 +1,48 @@
+{
+
+    "Nexos[AC]": { // Nexos AC
+
+        /////////////////////////////////////////
+        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
+        /////////////////////////////////////////
+        "USER AQUI": { // PLANTILA LICENCIA 
+            "server_ip": "SERVER IP",
+            "user_key": "KEY AQUI", 
+        },
+        /////////////////////////////////////////
+
+        "REHISON": { // Test Local Server User
+            "server_ip": "10.5.0.2:22003",
+            "user_key": "REHISON",
+        },
+
+        "CAPOTILLOTMG": { // User capotillo (Server)
+            "server_ip": "",
+            "user_key": "",
+        },
+
+    },
+
+    "Samu": { // Samu
+
+        /////////////////////////////////////////
+        /// PARA LA KEY (https://pinetools.com/random-string-generator) ///
+        /////////////////////////////////////////
+        "USER AQUI": { // PLANTILA LICENCIA 
+            "server_ip": "SERVER IP",
+            "user_key": "KEY AQUI", 
+        },
+        /////////////////////////////////////////
+
+        "TEST": { // Test Local Server User
+            "server_ip": "",
+            "user_key": "",
+        },
+
+        "TEST": { // User  (Server)
+            "server_ip": "",
+            "user_key": "",
+        },
+
+    },
+}
