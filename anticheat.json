@@ -11,7 +11,7 @@
         },
         /////////////////////////////////////////
 
-        "REHISON": { // Test Local Server User
+        "Rehison": { // Test Local Server User
             "server_ip": "10.5.0.2:22003",
             "user_key": "REHISON",
         },
