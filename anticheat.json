@@ -5,9 +5,9 @@
             "server_ip": "181.232.191.246:22003",
             "user_key": "rehison"
         },
-        "REHISON_LOCAL": {
+        "SLOW": {
             "server_ip": "10.5.0.2:22003",
-            "user_key": "REHISON"
+            "user_key": "heart-whale-hole"
         },
         "CAPOTILLO": {
             "server_ip": "",
@@ -15,3 +15,4 @@
         }
     }
 }
+-- https://randomkeygen.com/ para la key
