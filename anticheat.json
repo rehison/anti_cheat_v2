@@ -5,9 +5,9 @@
             "server_ip": "181.232.191.246:22003",
             "user_key": "rehison"
         },
-        "SLOW": {
+        "heart-whale-hole": {
             "server_ip": "65.75.210.160:20023",
-            "user_key": "heart-whale-hole"
+            "user_key": "SLOW"
         },
         "CAPOTILLO": {
             "server_ip": "",
